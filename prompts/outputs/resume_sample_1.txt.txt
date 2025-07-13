@@ -1,0 +1,6 @@
+Name: Ayesha Riaz  
+Role: Front-End Developer  
+Education: BS Computer Science – Lahore Garrison University  
+Skills: HTML, CSS, JavaScript, React, Git  
+Experience: 2 Freelance projects, 1 Internship  
+Objective: To work in a tech-driven environment that encourages innovation and learning.
